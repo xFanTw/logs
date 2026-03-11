@@ -1,0 +1,13 @@
+{
+  "name": "rsq-bridge",
+  "version": "1.0.0",
+  "description": "MongoDB Bridge für RSQ Finder",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0"
+  }
+}
